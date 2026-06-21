@@ -3,13 +3,25 @@
   "owner": {
     "name": "Damjan Dabo"
   },
+  "metadata": {
+    "description": "Open-source plugin that turns a mobile app idea into a build-ready spec Claude Code can build from."
+  },
   "plugins": [
     {
       "name": "app-idea-to-spec",
       "source": "./",
       "description": "Turn a mobile app idea into a build-ready spec for Claude Code. Spec-driven development, made for mobile.",
       "category": "workflow",
-      "keywords": ["claude-code", "spec-driven-development", "ios", "mobile", "app-development", "codegen", "swiftui", "react-native"]
+      "keywords": [
+        "claude-code",
+        "spec-driven-development",
+        "ios",
+        "mobile",
+        "app-development",
+        "codegen",
+        "swiftui",
+        "react-native"
+      ]
     }
   ]
 }
