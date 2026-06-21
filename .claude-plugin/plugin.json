@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "app-idea-to-spec",
+  "description": "Turn a mobile app idea into a build-ready spec for Claude Code. Spec-driven development, made for mobile.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Damjan Dabo",
+    "url": "https://dabo.dev"
+  },
+  "homepage": "https://github.com/dabodamjan/app-idea-to-spec",
+  "repository": "https://github.com/dabodamjan/app-idea-to-spec",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "spec-driven-development",
+    "ios",
+    "mobile",
+    "app-development",
+    "codegen",
+    "swiftui",
+    "react-native"
+  ]
+}
